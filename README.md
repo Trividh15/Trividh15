@@ -5,6 +5,8 @@
 - 📫 I am also a musician and love to talk about music and technology. You can contact me via Email @devanshmandloi312004@gmail.com.\
 - ✅ Thanks for visiting my profile; I hope you find it interesting. Looking forward to connecting with as many people as I can to share and grow my knowledge!
 
+<img src = "https://github-readme-stats.vercel.app/api?username=Trividh15&&show_icons=true&title_color=ffffF1&icon_color=bb2acf&text_color=FFFD01&bg_color=151515"
+
 <!---
 Trividh15/Trividh15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
